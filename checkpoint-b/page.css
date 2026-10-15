@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  background-color: #f5f5f5;
+}
+
+.tile {
+  padding: 12px;
+  color: #111111;
+}
